@@ -20,4 +20,4 @@ jobs:
       - name: Write some file
         run: |
           pwd
-          echo witam > elo.txt
+          echo czesc > elo1.txt
